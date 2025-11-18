@@ -1,8 +1,8 @@
-# proyectofinal3er
-Proyecto Final de la clase de primer semestre de Emplea Frameworks 
-Este Software esta desarrolladob en Python, y cuenta con una
-pantalla Principal, un registro de productos, registro de ventas
-y la impresion del Ticket 
+# proyecto final de 3er semestre
+Proyecto Final de la Clase de 3er Semestre de Emplea Frameworks
+Este software esta desarrollado en Python, y cuenta con una
+pantalla principal, un registro de productos, registro de ventas
+y la impresión del Ticket.
 
-Al momento se está creando su repositorio y los Logos que se
-usarán en el software. 
+Al momento se está creando su repositorio y los logos que se
+usarán en el software.
